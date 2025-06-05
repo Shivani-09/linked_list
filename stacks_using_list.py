@@ -29,7 +29,7 @@ def display():
 stack =[]
 while(1):
     print("Enter the option \n1. Push\n2. Pop\n3. Display\n4. Exit")
-    str = input("Enter your choice: )
+    str = input("Enter your choice: ")
     if str == '1':
         print("Push operation")
         push()
